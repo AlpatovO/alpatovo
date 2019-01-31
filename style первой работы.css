@@ -1,0 +1,28 @@
+.wrap{
+    padding: 10px;
+    height: 460px;
+    position: relative;
+    background: #FFFFFF;
+    text-align: left;
+    border: 0px solid #645a4e;
+    padding-left: 20px; 
+    margin: 60px;}
+   
+p
+   
+   {margin-right: 400px;
+   overflow: hidden;
+    max-height: 300px;
+}
+img{
+    float: right;
+}
+
+#a2{padding: 10px;
+height: 230px;
+text-align: left;
+border: 0px solid #C3E1F1;
+margin: 60px;}
+.n {margin-left: 15px;}
+button{border-radius: 23px;
+margin-right: 15px;}
